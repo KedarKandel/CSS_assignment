@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+  background-color: rgb(52, 45, 61);
+}
+.color_example {
+  color: white;
+  background-color: #2f2d57;
+  max-width: max-content;
+  border: 5px solid red;
+}
+
+.heading_example {
+  color: cyan;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.list_example {
+  background-color: aliceblue;
+  color: blue;
+}
+.text_example {
+  color: goldenrod;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+.div_example {
+    border: 5px solid crimson;
+    padding: 10px;
+  background-color: azure;
+}
